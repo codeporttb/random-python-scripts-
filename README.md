@@ -1,1 +1,1 @@
-# random-python-scripts - still working on it - being developed
+# random-python-scripts - being developed
